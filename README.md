@@ -10,7 +10,7 @@ Este é um projeto completo de gerenciamento de tarefas desenvolvido com as tecn
 O objetivo é fornecer uma plataforma eficiente e intuitiva para que os usuários possam criar, ler, atualizar e excluir suas tarefas de forma simples e organizada.
 O projeto inclui uma API backend construída com Node.js e Prisma, bem como uma interface web desenvolvida com React, permitindo uma experiência de usuário fluida e responsiva.
 
-<b>Por Diego Alba</b>
+<img src="https://avatars.githubusercontent.com/u/111131083?v=4" width=3%/> <b>Por Diego Alba</b>
 
 ## Metodologia CRUD
 
